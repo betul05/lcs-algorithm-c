@@ -6,7 +6,7 @@ The LCS problem is a classic algorithm problem used to find the longest subseque
 
 ---
 
-## 📌 What is LCS?
+## What is LCS?
 
 Given two sequences, the Longest Common Subsequence is the longest sequence that appears in both of them in the same order (not necessarily contiguous).
 
@@ -23,7 +23,7 @@ The LCS is: **GTAB**
 
 ---
 
-## ⚙️ Algorithm
+## Algorithm
 
 This project uses **Dynamic Programming (DP)** to solve the LCS problem efficiently.
 
@@ -34,7 +34,7 @@ Where `m` and `n` are the lengths of the input strings.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Compile the program:
 
